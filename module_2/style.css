@@ -16,7 +16,7 @@ p {
   height: 160px;
   margin-right: auto;
   margin-left: auto;
-  padding-top: 35px;
+  padding: 35px 5px 0px 5px;
   font-family: Helvetica;
   color: white;
 }
